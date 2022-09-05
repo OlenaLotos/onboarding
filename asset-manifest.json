@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onboarding/static/css/main.7acaea2f.css",
+    "main.js": "/onboarding/static/js/main.07d3183d.js",
+    "index.html": "/onboarding/index.html",
+    "main.7acaea2f.css.map": "/onboarding/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/onboarding/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}

@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/onboarding/static/css/main.7acaea2f.css",
-    "main.js": "/onboarding/static/js/main.07d3183d.js",
+    "main.css": "/onboarding/static/css/main.5c0d4ca9.css",
+    "main.js": "/onboarding/static/js/main.b44751f7.js",
+    "static/js/680.705ab444.chunk.js": "/onboarding/static/js/680.705ab444.chunk.js",
+    "static/css/224.d53112a9.chunk.css": "/onboarding/static/css/224.d53112a9.chunk.css",
+    "static/js/224.cb41835e.chunk.js": "/onboarding/static/js/224.cb41835e.chunk.js",
+    "static/media/sajt-holovna-dekstop.jpg": "/onboarding/static/media/sajt-holovna-dekstop.93d0d4a0330c390ec1d5.jpg",
     "index.html": "/onboarding/index.html",
-    "main.7acaea2f.css.map": "/onboarding/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/onboarding/static/js/main.07d3183d.js.map"
+    "main.5c0d4ca9.css.map": "/onboarding/static/css/main.5c0d4ca9.css.map",
+    "main.b44751f7.js.map": "/onboarding/static/js/main.b44751f7.js.map",
+    "680.705ab444.chunk.js.map": "/onboarding/static/js/680.705ab444.chunk.js.map",
+    "224.d53112a9.chunk.css.map": "/onboarding/static/css/224.d53112a9.chunk.css.map",
+    "224.cb41835e.chunk.js.map": "/onboarding/static/js/224.cb41835e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.5c0d4ca9.css",
+    "static/js/main.b44751f7.js"
   ]
 }

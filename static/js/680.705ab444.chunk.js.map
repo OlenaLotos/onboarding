@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/680.705ab444.chunk.js","mappings":"0JAQA,UARiB,WACf,OACE,gBAAKA,UAAU,YAAf,UACE,qFAGL,C","sources":["pages/HomePage/HomePage.jsx"],"sourcesContent":["const HomePage = () => {\n  return (\n    <div className=\"container\">\n      <h2>На головну</h2>\n    </div>\n  );\n};\n\nexport default HomePage;\n"],"names":["className"],"sourceRoot":""}

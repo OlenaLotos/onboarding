@@ -25,17 +25,14 @@ const Menu = () => {
     <div className={styles.wrapper}>
       {/* <Header></Header> */}
       <header className={styles.header}>
-        <div className={styles.wrapper}>
+        <div className={styles.logo_wrapper}>
+          {/* <div className={styles.wrapper}> */}
           <a
             // className={styles.link}
             href="https://www.banklviv.com/"
             rel="noreferrer noopener"
           >
-            <img
-              // src="https://www.banklviv.com/wp-content/uploads/2018/08/logo.png"
-              src="../../images/bl_logo.png"
-              alt="Logo"
-            />
+            <img className="logo" alt="" />
           </a>
         </div>
         <ul className={styles.menu}>{elements}</ul>
